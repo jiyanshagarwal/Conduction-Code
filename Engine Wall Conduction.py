@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
-k = 398    # W/m*K
-rho = 8960  # kg/m^3
-c = 385     # J/kg*K
+k = 167    # W/m*K
+rho = 2700  # kg/m^3
+c = 896     # J/kg*K
 a = k / (c * rho)
 
 t_final = 5        # second
